@@ -1,0 +1,16 @@
+C:\C#\Tekla_API\BeamCopy\BeamCopy\bin\Debug\BeamCopy.exe.config
+C:\C#\Tekla_API\BeamCopy\BeamCopy\bin\Debug\BeamCopy.exe
+C:\C#\Tekla_API\BeamCopy\BeamCopy\bin\Debug\BeamCopy.pdb
+C:\C#\Tekla_API\BeamCopy\ObjDir\2018\BeamCopy\BeamCopy.csprojResolveAssemblyReference.cache
+C:\C#\Tekla_API\BeamCopy\ObjDir\2018\BeamCopy\BeamCopy.frmBeamCopy.resources
+C:\C#\Tekla_API\BeamCopy\ObjDir\2018\BeamCopy\BeamCopy.Properties.Resources.resources
+C:\C#\Tekla_API\BeamCopy\ObjDir\2018\BeamCopy\BeamCopy.csproj.GenerateResource.cache
+C:\C#\Tekla_API\BeamCopy\ObjDir\2018\BeamCopy\BeamCopy.csproj.CoreCompileInputs.cache
+C:\C#\Tekla_API\BeamCopy\ObjDir\2018\BeamCopy\BeamCopy.exe
+C:\C#\Tekla_API\BeamCopy\ObjDir\2018\BeamCopy\BeamCopy.pdb
+C:\C#\Tekla_API\BeamCopy\BeamCopy\bin\Debug\Tekla.Structures.dll
+C:\C#\Tekla_API\BeamCopy\BeamCopy\bin\Debug\Tekla.Structures.Model.dll
+C:\C#\Tekla_API\BeamCopy\BeamCopy\bin\Debug\Tekla.Structures.xml
+C:\C#\Tekla_API\BeamCopy\BeamCopy\bin\Debug\Tekla.Structures.Model.xml
+C:\C#\Tekla_API\BeamCopy\ObjDir\2018\BeamCopy\BeamCopy.exe.config
+C:\C#\Tekla_API\BeamCopy\ObjDir\2018\BeamCopy\BeamCopy.csproj.CopyComplete
