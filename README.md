@@ -1,1 +1,2 @@
 # BeamModify
+Another C# application using the Tekla API. This application modifies a beam that is already selected, or allows the user to select a beam (or beams) to modify. The application changes the position of the beam by modifying the start point and the end point of the beam in relation to the origin. The application also changes the class and profile of the beam. Nothing too complicated, but any practice is good practice!!!
